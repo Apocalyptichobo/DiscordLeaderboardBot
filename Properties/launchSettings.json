@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DixieNormusDickswordBot": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
